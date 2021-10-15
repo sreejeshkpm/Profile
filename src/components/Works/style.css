@@ -1,0 +1,14 @@
+.works {
+    flex-grow: 2;
+    font-weight: lighter;
+  }
+.exper {
+  color: rgb(158, 8, 121);
+}
+  .para {
+    margin-bottom: 25px;
+    padding-bottom: 40px;
+  }
+  .works h1 {
+    margin-bottom: 0px;
+  }
