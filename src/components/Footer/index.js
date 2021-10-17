@@ -27,7 +27,7 @@ const Footer = () => {
           alt="LinkIn-icon"
         />
       </a>
-      <a href="https://twitter.com/diwna201" target="_blank">
+      <a href="https://twitter.com/sreejeshkpm" target="_blank">
         <img
           src="https://github.com/DwinaTech/public-images/blob/main/twitter-icon.png?raw=true"
           alt="Twitter-icon"
